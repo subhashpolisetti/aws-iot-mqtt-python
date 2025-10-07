@@ -1,4 +1,4 @@
-# 🛰️ AWS IoT Core MQTT Client (mTLS)
+#  AWS IoT Core MQTT Client (mTLS)
 
 A lightweight Python client for connecting to **AWS IoT Core** using **mutual TLS (mTLS)** authentication.  
 This tool demonstrates secure MQTT publish/subscribe communication using the official **AWS IoT Device SDK for Python (V2)**.
@@ -7,11 +7,11 @@ This tool demonstrates secure MQTT publish/subscribe communication using the off
 
 ## Features
 
-- ✅ Secure connection using **mutual TLS (X.509 certificates)**  
-- ✅ Automatic **Root CA detection** (no need to specify manually)  
-- ✅ Simple **publish/subscribe** demo  
-- ✅ Configurable **topic**, **client ID**, and **keep-alive interval**  
-- ✅ Optional **TRACE logging** for debugging network events  
+- Secure connection using **mutual TLS (X.509 certificates)**  
+- Automatic **Root CA detection** (no need to specify manually)  
+- Simple **publish/subscribe** demo  
+- Configurable **topic**, **client ID**, and **keep-alive interval**  
+- Optional **TRACE logging** for debugging network events  
 
 ---
 
